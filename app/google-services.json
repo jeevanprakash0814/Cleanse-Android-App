@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193388480114",
+    "firebase_url": "https://test-firebase-ddf15.firebaseio.com",
+    "project_id": "test-firebase-ddf15",
+    "storage_bucket": "test-firebase-ddf15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193388480114:android:0e3ab9c019fa732b4e64eb",
+        "android_client_info": {
+          "package_name": "com.jeevan.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193388480114-7av8o8i0nqopn0r9atpbsgv4e8btacim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO2-X7qA_TY-z0DXe4_ZtD2TEG1T1ziIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193388480114-7av8o8i0nqopn0r9atpbsgv4e8btacim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
